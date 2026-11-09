@@ -1,0 +1,44 @@
+name: Bug report
+description: Something isn't working the way it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time! A few quick details help me find and fix things much faster.
+        Please don't include anything private (like passwords or messages you've typed).
+  - type: input
+    id: phone
+    attributes:
+      label: Which phone?
+      description: For example P26, Q25, Titan 2 Elite, a Clicks case on a Pixel, or "touch screen only".
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Which RetroType version?
+      description: You'll find it on RetroType's About page, for example 1.0.0.
+    validations:
+      required: true
+  - type: dropdown
+    id: edition
+    attributes:
+      label: Free or Keyholder?
+      options:
+        - Free
+        - Keyholder
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Screenshots or screen recordings are very welcome.

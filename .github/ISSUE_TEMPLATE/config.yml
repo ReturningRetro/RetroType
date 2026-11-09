@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Something private?
+    url: mailto:retrotype@returningretro.com
+    about: Email retrotype@returningretro.com instead of posting here.
+  - name: Become a Keyholder
+    url: https://retrotype.app/keyholder
+    about: Support RetroType and vote on which phone gets support next.
