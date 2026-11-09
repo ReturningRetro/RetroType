@@ -28,13 +28,13 @@ RetroType is an input method editor (aka a keyboard app) for Android phones with
 
 I've been typing on keypads and keyboards since high school. My first phone was a push-to-talk flip phone so my boss (at the local movie theater!) could reach me. A year later, in 2006, I got my first QWERTY phone, and I've been hooked on physical keyboards ever since. I used the great ones back in their day, and I'm using the new wave of keyboard phones now.
 
-Physical keyboards went from being the standard on phones to a clunky mix of hardware and software today, and when a prototype QWERTY phone landed on my desk with no keyboard tuning at all, I decided to try making my own.
+Physical keyboards went from being the standard on phones to a clunky mix of hardware and software today. When a prototype QWERTY phone landed on my desk with no keyboard tuning at all, and the existing keyboard apps I could find weren't a seamless fit, I decided to try making my own.
 
 ### How it's made (honestly)
 
-I'm not a programmer. I build RetroType with an AI coding assistant (an LLM), which writes the code while I steer. What I bring is the part that's hard to find: years of having used these phones back then, AND using the new devices today. I know how they're supposed to feel, I test every build on real phones, and I keep at it until it feels right.
+I'm not a programmer. I build RetroType with an AI coding assistant (an LLM), which writes the code while I steer. What I bring is something a bit more unique: years of having used these phones "back then," AND using the new devices today. I know how they're supposed to feel, I test every build on real phones, and I keep at it until it feels right.
 
-RetroType is built from scratch around that experience. It isn't a copy or a fork of another keyboard app and with it turning out out better than I ever expected (like, a lot better) for that prototype I added more phones and decided to share it with the world!
+RetroType is built from scratch around that experience (it isn't a copy or a fork of another keyboard app), and with it turning out out better than I ever expected (like, a lot better) for that prototype I added more phones and decided to share it with the world!
 
 ## Download
 
@@ -42,7 +42,7 @@ RetroType is built from scratch around that experience. It isn't a copy or a for
 2. Open the downloaded file. If your phone asks, allow your browser or file manager to install apps.
 3. Open **RetroType** and follow the short setup. It walks you through turning the keyboard on.
 
-That's it. No account or sign-up required.
+No account or sign-up required.
 
 > **About the install warnings:** Android shows a warning for any app that doesn't come from the Play Store. RetroType is registered with Google's developer verification, and since it has no internet access, it can't send anything anywhere.
 
@@ -67,7 +67,7 @@ RetroType is tuned for:
 
 It also works on **any Android phone** with its own on-screen keyboard. Android 12 or newer.
 
-### Which phone is next? Keyholders decide 🔑
+### Which phone is next? Keyholders decide 
 
 Adding a phone takes real time (and usually buying one to test on), so Keyholders vote on which phone gets support next. If you'd love RetroType tuned for your phone, becoming a Keyholder is the best way to make it happen.
 
@@ -90,7 +90,7 @@ RetroType is free, and the free version is the full keyboard. Keyholders get a f
 
 **What does it cost?** Whatever you want, as long as it's at least $10. Once, not a subscription. Anything above $10 goes straight into test phones, new features and keeping the lights on.
 
-<p align="center"><a href="https://retrotype.app/keyholder"><b> Become a Keyholder</b></a></p>
+<p align="center"><a href="https://retrotype.app/keyholder"><b>🔑 Become a Keyholder</b></a></p>
 
 ## Privacy
 
