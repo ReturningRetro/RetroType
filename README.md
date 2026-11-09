@@ -81,7 +81,7 @@ RetroType is free, and the free version is the full keyboard. Keyholders get a f
 | Every supported phone | ✅ | ✅ |
 | No ads, no tracking, no internet access | ✅ | ✅ |
 | The Modern theme | ✅ | ✅ |
-| More themes and a custom accent colour | | ✅ |
+| More themes and a custom accent color | | ✅ |
 | Extra key sounds | | ✅ |
 | Alternate app icons | | ✅ |
 | New versions a week early | | ✅ |
