@@ -94,7 +94,9 @@ RetroType is free, and the free version is the full keyboard. Keyholders get a f
 
 ## Privacy
 
-RetroType doesn't have internet access. That's not a setting you could switch on; the app simply never asks Android for it. No ads, no tracking, no analytics, no data collection, no account. What you type stays on your phone.
+RetroType can’t connect to the internet. Links like “Become a Keyholder” open in your own browser; RetroType itself never goes online.
+
+No ads, no tracking, no analytics, no data collection, no account. What you type stays on your phone.
 
 ## Help and feedback
 
