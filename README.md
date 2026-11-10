@@ -5,7 +5,7 @@
 <h1 align="center">RetroType Keyboard</h1>
 
 <p align="center">
-  The typing you remember from classic keyboard phones, rebuilt for today's Android phones.<br>
+  The typing you remember from classic keyboard phones, re-imagined for the Android phones of today.<br>
   Made by one guy at <a href="https://www.youtube.com/@ReturningRetro">Returning Retro</a>.
 </p>
 
