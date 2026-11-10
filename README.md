@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>🚫 No internet access &nbsp;·&nbsp; 🚫 No ads &nbsp;·&nbsp; 🚫 No tracking &nbsp;·&nbsp; 🚫 No account</b><br>
-  <sub>The app never even asks Android for internet access. What you type stays on your phone.</sub>
+  <sub>What you type stays on your phone.</sub>
 </p>
 
 <p align="center">
