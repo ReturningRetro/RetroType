@@ -32,7 +32,7 @@ Physical keyboards went from being the standard on phones to a clunky mix of har
 
 ### How it's made (honestly)
 
-I'm not a programmer. I build RetroType with an AI coding assistant (an LLM), which writes the code while I steer. What I bring is something a bit more unique: years of having used these phones "back then," AND using the new devices today. I know how they're supposed to feel, I test every build on real phones, and I keep at it until it feels right.
+I'm not a programmer. I build RetroType with an AI coding assistant (an LLM), which writes the code while I steer. PLEASE be patient with me as there will be bugs. What I bring is something a bit more unique: years of having used these phones "back then," AND using the new devices today. I know how they're supposed to feel, I test every build on real phones, and I keep at it until it feels right.
 
 RetroType is built from scratch around that experience (it isn't a copy or a fork of another keyboard app), and with it turning out out better than I ever expected (like, a lot better) for that prototype I added more phones and decided to share it with the world!
 
@@ -88,7 +88,7 @@ RetroType is free, and the free version is the full keyboard. Keyholders get a f
 | Your name on the About page (if you want) | | ✅ |
 | A vote on the next phone and features | | ✅ |
 
-**What does it cost?** Whatever you want, as long as it's at least $10. Once, not a subscription. Anything above $10 goes straight into test phones, new features and keeping the lights on.
+**What does it cost?** Whatever you want...starting at $10 (once, not a subscription)! This goes straight into test phones and new features.
 
 <p align="center"><a href="https://retrotype.app/keyholder"><b>🔑 Become a Keyholder</b></a></p>
 
