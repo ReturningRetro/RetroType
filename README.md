@@ -82,7 +82,7 @@ RetroType is free, and the free version is the full keyboard. Keyholders get a f
 | No ads, no tracking, no internet access | ✅ | ✅ |
 | 4 extras hidden as secrets to find: a theme, an app icon, an accent color and a key sound | ✅ | ✅ |
 | 4 more secrets on day one, plus new ones with every feature drop | | ✅ |
-| The Keymaster title for finding every secret | | ✅ |
+| The Keymaster challenge: find every secret | | ✅ |
 | New versions a week early | | ✅ |
 | Your name on the About page (if you want) | | ✅ |
 | A vote on the next phone and features | | ✅ |
