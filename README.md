@@ -22,6 +22,18 @@
 
 ---
 
+<p align="center">
+  <img src="assets/screenshots/typing.png" width="260" alt="Typing on the Q25's keys with RetroType's suggestions showing">
+  <img src="assets/screenshots/symbols.png" width="260" alt="RetroType's symbol page, each symbol with the key to press">
+  <img src="assets/screenshots/emoji.png" width="260" alt="RetroType's emoji pages">
+</p>
+<p align="center">
+  <img src="assets/screenshots/theme-dark.png" width="260" alt="RetroType's Modern theme, dark">
+  <img src="assets/screenshots/theme-light.png" width="260" alt="RetroType's Modern theme, light">
+  <img src="assets/screenshots/theme-8bit.png" width="260" alt="RetroType's 8-Bit theme">
+</p>
+<p align="center"><sub>On a Q25: suggestions as you type, the symbol and emoji pages, and three looks (8-Bit is a secret to find).</sub></p>
+
 ## Hi, I'm Retro Jake! 
 
 RetroType is an input method editor (aka a keyboard app) for Android phones with physical keyboards/keypads, plus its own on-screen keyboard for any Android phone. It's just me working on it, in my spare time, with help from a small group of very patient testers.
@@ -66,6 +78,10 @@ RetroType is tuned for:
 - Titan 2 Elite
 
 It also works on **any Android phone** with its own on-screen keyboard. Android 12 or newer.
+
+Each phone gets its own page of options for its keys. Here's the Q25's:
+
+<p align="center"><img src="assets/screenshots/q25-keys-scroll.gif" width="360" alt="Scrolling through the Q25 keys page in RetroType's settings"></p>
 
 ### Which phone is next? Keyholders decide 
 
