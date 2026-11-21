@@ -77,7 +77,7 @@ RetroType is tuned for:
 - Sidephone (Compact QWERTY tile)
 - Titan 2 Elite
 
-It also works on **any Android phone** with its own on-screen keyboard. Android 12 or newer.
+It also works on **any Android phone** with its own on-screen keyboard. Android 10 or newer.
 
 Each phone gets its own page of options for its keys. Here's the Q25's:
 
